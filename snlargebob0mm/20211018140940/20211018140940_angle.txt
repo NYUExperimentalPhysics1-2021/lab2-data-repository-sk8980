@@ -1,2 +1,0 @@
-time (s)	theta (A)	maj axis/z0	min axis/z0	crossing#mod 255
-4228.868231	233.303513	0.476270	0.100000	9

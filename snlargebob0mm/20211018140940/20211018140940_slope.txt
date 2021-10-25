@@ -1,3 +1,0 @@
-crossing time (s)	slope (V/s)	crossing number
-4228.007411	93.984871	2056
-4228.871878	72.469450	2057
